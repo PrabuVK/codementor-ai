@@ -18,3 +18,5 @@ This app requires Amazon Q Developer CLI (`q`) installed locally.
 
 ## 🎥 Demo Video
 [Link to video - coming soon]
+
+## 🏆 Built for AWS Global Vibe Hackathon 2025
