@@ -314,6 +314,11 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
+# Cloud deployment warning
+import os
+if os.environ.get('USER') == 'appuser' or 'STREAMLIT' in os.environ.get('HOME', ''):
+    st.warning("⚠️ **UI DEMO MODE:** This cloud version shows the interface only. Amazon Q CLI requires local installation. See video/screenshots for full functionality.")
+
 # --- Quick Stats Bar ---
 if "Chat" not in mode:  # Don't show on chat mode for cleaner look
     stat_col1, stat_col2, stat_col3, stat_col4 = st.columns(4)
