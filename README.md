@@ -21,7 +21,7 @@ CodeMentor AI Pro is not just a chatbot—it is a complete, gamified education p
 
 ---
 
-## 🛠️ How I Used AWS Tools (Mandatory Proof)
+## 🛠️ How I Used AWS Tools 
 This project was built entirely using the next-generation AWS developer ecosystem.
 
 ### 1. Intelligence Engine: Amazon Q Developer CLI
