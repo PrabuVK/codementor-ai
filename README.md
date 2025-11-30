@@ -7,7 +7,7 @@
 ### 🔗 Quick Links
 - **📺 Watch Demo:** [YouTube Video](https://youtu.be/QtzdVztaiCs)
 - **🚀 Live App:** [codementor-ai.streamlit.app](https://codementor-ai.streamlit.app)
-- **📄 Devpost/DoraHacks:** [Submission Page](https://dorahacks.io/hackathon/awsvibecoding)
+- **📄 Devpost/DoraHacks:** [Submission Page](https://dorahacks.io/buidl/37159/followers)
 
 ---
 
